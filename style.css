@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+img{
+    width: 100%;
+}
+
+.blueBg {
+    background-color: #085070;
+    font-size: 40px;
+    color: #fff;
+}
+
+.missing{
+    background-color: red;
+    font-size: 25px;
+}
+
+@media (min-width:992px){
+.missing {
+    font-size: 45px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
